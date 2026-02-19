@@ -50,8 +50,8 @@ jobs:
             "ref": "master",
             "inputs": {
                 "AzureToken": "${{ secrets.AZURE_PAT }}",
-                "Organization": "Azure-Do",
-                "ProjectName": "Azure-DoDemo",
+                "Organization": "GSIntegrationTeam",
+                "ProjectName": "Scrap%20Management",
                 "POName": "Mohamed",
                 "FrontEndIDs": "52c6c14f-82b6-6622-b809-f56e6a1f43e4",
                 "BackEndIDs": "52c6c14f-82b6-6622-b809-f56e6a1f43e4",
