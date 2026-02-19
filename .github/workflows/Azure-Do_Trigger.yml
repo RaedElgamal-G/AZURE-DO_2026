@@ -56,7 +56,7 @@ jobs:
                 "FrontEndIDs": "52c6c14f-82b6-6622-b809-f56e6a1f43e4",
                 "BackEndIDs": "52c6c14f-82b6-6622-b809-f56e6a1f43e4",
                 "MobileIDs": "52c6c14f-82b6-6622-b809-f56e6a1f43e4",
-                "StateReflectKeyword": "Active"
+                "StateReflectKeyword": "Removed"
             }
           }' > AnalysisAutomation.json
 
